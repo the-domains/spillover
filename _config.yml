@@ -1,0 +1,14 @@
+layout_spectrum: 0.9330460396595299
+typography_spectrum: 0.8236016384325922
+color:
+  brandStrength: 0.6410052014980465
+  lightness: 0.29812087467871606
+  saturation: 0.1169916873332113
+  rhythmicContrast: 0.39613894931972027
+  brandColors:
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+name: Spillover
